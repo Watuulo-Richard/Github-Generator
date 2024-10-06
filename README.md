@@ -114,13 +114,3 @@ Thank you for checking out **GitHub Profile Finder**! I hope you find it helpful
 
 ![Thank You](./src/assets/images/image_processing20210525-31415-xxv0v3.gif)
 ```
-
-### Key Elements:
-
-- **Emojis** to make the README more engaging.
-- **GIFs** showing how the app works or how to install/run it.
-- Clear steps for **installation** and **running the app**.
-- Overview of the **folder structure** and **project features**.
-- Encourages contributions and interaction.
-
-Feel free to modify the README to fit your project’s specific features!
